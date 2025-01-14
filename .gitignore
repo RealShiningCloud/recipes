@@ -1,0 +1,5 @@
+receipts/
+*.jpg
+*.csv
+.DS_Store
+private/
